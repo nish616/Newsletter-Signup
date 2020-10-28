@@ -1,3 +1,8 @@
 # Newsletter-Signup
 Newsletter signing up web application made using Bootstrap,  NodeJS, Express JS and mailchimp API.
-Takes the users data and send a post request using node, express and mailchimp api to subscribe users to the newsletter.
+.
+.
+.
+Uses bootstrap forms to take user data and send a post request to the local server.
+Another post request is send from the local server to the Mailchimp servers using their API to batch subscribe the user and a response message is send back.
+
